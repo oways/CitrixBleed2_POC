@@ -50,6 +50,9 @@ Set-Cookie: NSC_USER=anything;Path=/;Secure
 
 This PoC is provided for educational and authorized testing purposes only. Unauthorized use against production environments without consent is strictly prohibited.
 
+> Reference:
+https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/
+
 ---
 
 ## ☕ To Support My Projects
